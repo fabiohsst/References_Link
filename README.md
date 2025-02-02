@@ -3,6 +3,8 @@
 ## Introduction
 *Naruhodo* is not only a podcast—it’s a curated collection of scientific exploration where episodes often intersect through shared references. **The aim of this project is to scrape and import the available Naruhodo podcast data into Neo4j.** Future projects will build on this dataset to analyze connections, thematic clusters, and learning pathways using LLMs and ML.
 
+For more details about the podcast and its themes, you can check out [Naruhodo on B9](https://www.b9.com.br/shows/naruhodo/).
+
 ## How to Run the Project
 1. **Clone the Repository:**
 
