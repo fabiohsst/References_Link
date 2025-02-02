@@ -1,4 +1,5 @@
-.ipynb_checkpoints/
+# Ignore jupyter checkpoints
+.ipynb_checkpoints
 
 # Ignore environment variables file
-.env
+.env.txt
